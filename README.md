@@ -1,3 +1,2 @@
 # RMI
-RMI in Advanced Programming
-It is a mechanism that allows an object residing in one system (JVM) to access/invoke an object running on another JVM.
+The Java Remote Method Invocation (RMI) system allows an object running in one Java virtual machine to invoke methods on an object running in another Java virtual machine. RMI provides for remote communication between programs written in the Java programming language.
